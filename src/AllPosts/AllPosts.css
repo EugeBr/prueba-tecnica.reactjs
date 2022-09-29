@@ -1,0 +1,15 @@
+.post {
+    margin: 30px auto;
+    min-width: 480px;
+    max-width: 640px;
+    min-height: 80px;
+    padding: 10px;
+    font-size: 1.1rem;
+    line-height: 18px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px #888888;
+  }
+
+.all-posts{
+    margin-top: 3rem;
+}
